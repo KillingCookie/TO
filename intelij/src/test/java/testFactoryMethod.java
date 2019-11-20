@@ -14,4 +14,5 @@ public class testFactoryMethod {
         assertTrue(f.getCPU("intel") instanceof Intel);
         assertTrue(f.getCPU("amd") instanceof AMD);
     }
+
 }
