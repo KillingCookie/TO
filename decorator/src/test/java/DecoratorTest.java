@@ -14,7 +14,9 @@ public class DecoratorTest {
 
         Car blueHatch = new CarPainterDecorator(hatch, "azure blue");
 
-        assertNotEquals(hatch, blueHatch);
+        assertEquals(false, ((CarPainterDecorator) blueHatch).isPainted());
+        blueHatch.printCharacteristics();
+        assertEquals(true, ((CarPainterDecorator) blueHatch).isPainted());
 
     }
 
