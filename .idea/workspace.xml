@@ -11,8 +11,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -57,7 +57,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in singleton">
+  <component name="RunManager" selected="JUnit.All in adapter">
+    <configuration name="All in adapter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="adapter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="All in labTO" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="labTO" />
       <option name="PACKAGE_NAME" value="" />
@@ -110,6 +118,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in adapter" />
         <item itemvalue="JUnit.All in singleton" />
         <item itemvalue="JUnit.All in labTO" />
         <item itemvalue="JUnit.testBuilder" />
@@ -131,7 +140,7 @@
       <workItem from="1574249048933" duration="5680000" />
       <workItem from="1574764486981" duration="137000" />
       <workItem from="1574875215256" duration="3927000" />
-      <workItem from="1575294862280" duration="1665000" />
+      <workItem from="1575294862280" duration="3973000" />
     </task>
     <servers />
   </component>

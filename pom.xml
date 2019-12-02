@@ -10,6 +10,7 @@
         <module>builder</module>
         <module>factoryMethod</module>
         <module>abstractFactory</module>
+        <module>adapter</module>
     </modules>
 
     <dependencies>
